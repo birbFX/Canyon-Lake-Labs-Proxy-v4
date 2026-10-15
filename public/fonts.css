@@ -1,0 +1,36 @@
+@font-face {
+	font-family: "Clash Display";
+	src: url("/fonts/ClashDisplay-Medium.otf") format("opentype");
+	font-weight: 500;
+	font-display: swap;
+}
+@font-face {
+	font-family: "Clash Display";
+	src: url("/fonts/ClashDisplay-Semibold.otf") format("opentype");
+	font-weight: 600;
+	font-display: swap;
+}
+@font-face {
+	font-family: "Clash Display";
+	src: url("/fonts/ClashDisplay-Bold.otf") format("opentype");
+	font-weight: 700 900;
+	font-display: swap;
+}
+@font-face {
+	font-family: "Clash Grotesk";
+	src: url("/fonts/ClashGrotesk-Regular.otf") format("opentype");
+	font-weight: 400;
+	font-display: swap;
+}
+@font-face {
+	font-family: "Clash Grotesk";
+	src: url("/fonts/ClashGrotesk-Medium.otf") format("opentype");
+	font-weight: 500;
+	font-display: swap;
+}
+@font-face {
+	font-family: "Clash Grotesk";
+	src: url("/fonts/ClashGrotesk-Semibold.otf") format("opentype");
+	font-weight: 600;
+	font-display: swap;
+}
